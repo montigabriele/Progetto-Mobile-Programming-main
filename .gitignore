@@ -1,0 +1,68 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Android generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin
+.kotlin/
+
+# Signing / sensitive files
+*.jks
+*.keystore
+keystore.properties
+
+# APK / App Bundle
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary / backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Firebase / Google services
+# Decommenta se NON vuoi versionare il file Firebase
+# google-services.json
+
+# Fastlane generated files
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# NDK
+obj/
+
+# Crashlytics
+crashlytics-build.properties
+
+# Secrets / environment
+.env
+.env.*
+secrets.properties

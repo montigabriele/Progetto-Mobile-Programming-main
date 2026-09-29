@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Mastermind Game Colors -->
+    <color name="peg_red">#F63223</color>
+    <color name="peg_blue">#338ADC</color>
+    <color name="peg_green">#8BC34A</color>
+    <color name="peg_yellow">#FFEB3B</color>
+    <color name="peg_orange">#FF7514</color>
+    <color name="peg_purple">#836AC7</color>
+    <color name="peg_pink">#EF9AC2</color>
+    <color name="peg_cyan">#65DAF0</color>
+
+    <!-- Game UI Colors -->
+    <color name="game_background">#FFF7FAFC</color>
+    <color name="game_background_dark">#FF1A202C</color>
+    <color name="board_background">#FFFFFFFF</color>
+    <color name="board_background_dark">#FF2D3748</color>
+    <color name="peg_empty">#FFE2E8F0</color>
+    <color name="peg_empty_dark">#FF4A5568</color>
+    <color name="peg_border">#FFCBD5E0</color>
+    <color name="peg_border_dark">#FF718096</color>
+
+    <!-- Feedback Colors -->
+    <color name="feedback_correct_position">#FF000000</color>
+    <color name="feedback_correct_color">#FFFFFFFF</color>
+    <color name="feedback_empty">#FFCBD5E0</color>
+
+    <!-- UI Elements -->
+    <color name="primary">#FF3182CE</color>
+    <color name="title">#FF7E4E2E</color>
+    <color name="primary_variant">#FF2C5282</color>
+    <color name="secondary">#FF38A169</color>
+    <color name="secondary_variant">#FF2F855A</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="surface_dark">#FF2D3748</color>
+    <color name="error">#FFFC8181</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="on_secondary">#FF000000</color>
+    <color name="on_surface">#FF1A202C</color>
+    <color name="on_surface_dark">#FFFFFFFF</color>
+    <color name="on_error">#FF000000</color>
+
+</resources>

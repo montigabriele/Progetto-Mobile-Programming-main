@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mastermind</string>
+
+    <!-- Home Screen -->
+    <string name="menu_play">Gioca</string>
+    <string name="menu_exit">Esci</string>
+    <string name="label_num_colors">Numero di colori</string>
+    <string name="label_code_length">Lunghezza del codice</string>
+    <string name="label_duplicates">Ripetizioni</string>
+    <string name="menu_history">Storico</string>
+    <string name="menu_language">Lingua</string>
+    <string name="language_it">🇮🇹 Italiano</string>
+    <string name="language_en">🇬🇧 Inglese</string>
+    <string name="menu_new_game">Nuova Partita</string>
+    <string name="menu_continue_game">Riprendi Partita</string>
+    <string name="rules">Come si gioca</string>
+
+    <!-- Game Screen -->
+    <string name="game_title">Mastermind</string>
+    <string name="game_submit">Conferma</string>
+    <string name="game_reset">Reset</string>
+    <string name="game_back_to_menu">Menù</string>
+    <string name="game_secret_code">Codice Segreto</string>
+    <string name="game_hidden_code">Codice Nascosto</string>
+    <string name="game_colors">Seleziona i colori:</string>
+    <string name="menu_rules">Regole del Gioco</string>
+    <string name="save_game">SALVA PARTITA</string>
+    <string name="save_game_prompt">
+    Vuoi salvare la partita corrente?
+    Potrai riprenderla in seguito.
+    </string>
+    <string name="timer">Timer</string>
+    <string name="game_compatible_codes">Combinazioni</string>
+    <string name="game_hystory">Storico Tentativi</string>
+    <string name="game_no_attempts">Nessun tentativo ancora</string>
+    <string name="game_attempt">Il tuo tentativo</string>
+    <string name="game_won">🎉 COMPLIMENTI! 🎉</string>
+    <string name="game_lose">😔 HAI PERSO 😔</string>
+    <string name="game_final_score">Punteggio: %1$d</string>
+    <string name="new_game">Nuova Partita</string>
+    <string name="rule_1">Indovina la combinazione segreta</string>
+    <string name="rule_2">Seleziona i colori per creare il tuo tentativo</string>
+    <string name="rule_3">⚫ Nero = colore giusto, posizione corretta</string>
+    <string name="rule_4">⚪ Bianco = colore giusto, posizione sbagliata</string>
+    <string name="rule_5">Più veloce sei, più punti ottieni!</string>
+    <string name="rule_6">Meno tentativi = punteggio migliore</string>
+    <string name="close_rules">Ho Capito!</string>
+    <string name="no_saved_games">Non hai ancora salvato nessuna partita</string>
+    <string name="no_saved_games_description">Gioca, salva e torna più tardi per riprendere da dove avevi lasciato.</string>
+
+    <!-- Saved Games Screen -->
+    <string name="saved_games">Partite salvate</string>
+    <string name="duplicates">Duplicati</string>
+    <string name="win">Vinta</string>
+    <string name="loss">Persa</string>
+    <string name="game_in_progress">In corso</string>
+    <string name="game_delete">Elimina partita</string>
+    <string name="game_delete_confirmation">Sei sicuro di voler eliminare questa partita salvata?</string>
+    <string name="save_before_exit">Salvare la partita?</string>
+    <string name="save_before_exit_prompt">Vuoi salvare la partita prima di uscire?</string>
+    <string name="save_and_exit">Salva ed esci</string>
+    <string name="exit_without_saving">Esci senza salvare</string>
+    <string name="stat">Statistiche</string>
+    <string name="cron">Cronologia Partite</string>
+
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Annulla</string>
+    <string name="yes">Sì</string>
+    <string name="no">No</string>
+    <string name="close">Chiudi</string>
+    <string name="save">Salva</string>
+    <string name="back">Indietro</string>
+    <string name="totalCombinations">Combinazioni Totali</string>
+    <string name="possibleCombinations">Combinazioni Possibili</string>
+    <string name="game_attempts">Tentativi</string>
+    <string name="game_score">Punteggio</string>
+    <string name="date">dd/MM/yyyy HH:mm</string>
+    <string name="background">Background</string>
+    <string name="delete">Elimina</string>
+
+</resources>

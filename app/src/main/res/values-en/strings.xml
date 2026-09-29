@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mastermind</string>
+
+    <!-- Home Screen -->
+    <string name="menu_play">Play</string>
+    <string name="menu_exit">Exit</string>
+    <string name="label_num_colors">Number of colors</string>
+    <string name="label_code_length">Code length</string>
+    <string name="label_duplicates">Duplicates</string>
+    <string name="menu_history">History</string>
+    <string name="menu_language">Language</string>
+    <string name="language_it">🇮🇹 Italian</string>
+    <string name="language_en">🇬🇧 English</string>
+    <string name="menu_new_game">New Game</string>
+    <string name="menu_continue_game">Resume Game</string>
+    <string name="rules">How to play</string>
+
+    <!-- Game Screen -->
+    <string name="game_title">Mastermind</string>
+    <string name="game_submit">Submit</string>
+    <string name="game_reset">Reset</string>
+    <string name="game_back_to_menu">Menu</string>
+    <string name="game_secret_code">Secret Code</string>
+    <string name="game_hidden_code">Hidden Code</string>
+    <string name="game_colors">Select colors:</string>
+    <string name="menu_rules">Rules of the Game</string>
+    <string name="save_game">SAVE GAME</string>
+    <string name="save_game_prompt">
+    Do you want to save the current game?
+    You can resume it later.
+    </string>
+    <string name="timer">Timer</string>
+    <string name="game_compatible_codes">Combinations</string>
+    <string name="game_hystory">Historical Attempts</string>
+    <string name="game_no_attempts">No attempts yet</string>
+    <string name="game_attempt">Your attempt</string>
+    <string name="game_won">🎉 WELL DONE! 🎉</string>
+    <string name="game_lose">😔 GAME OVER 😔</string>
+    <string name="game_final_score">Score: %1$d</string>
+    <string name="new_game">New Game</string>
+    <string name="rule_1">Guess the secret combination</string>
+    <string name="rule_2">Select colors to make your guess</string>
+    <string name="rule_3">⚫ Black = correct color, correct position</string>
+    <string name="rule_4">⚪ White = correct color, wrong position</string>
+    <string name="rule_5">The faster you are, the more points you get!</string>
+    <string name="rule_6">Fewer attempts = higher score</string>
+    <string name="close_rules">I understand!</string>
+    <string name="no_saved_games">You haven\'t saved any games yet</string>
+    <string name="no_saved_games_description">Play, save, and come back later to pick up where you left off.</string>
+
+    <!-- Saved Games Screen -->
+    <string name="saved_games">Saved games</string>
+    <string name="duplicates">Duplicates</string>
+    <string name="win">Won</string>
+    <string name="loss">Lost</string>
+    <string name="game_in_progress">In progress</string>
+    <string name="game_delete">Delete Game</string>
+    <string name="game_delete_confirmation">Are you sure you want to delete this saved game?</string>
+    <string name="save_before_exit">Save game?</string>
+    <string name="save_before_exit_prompt">Would you like to save your game before exiting?</string>
+    <string name="save_and_exit">Save and exit</string>
+    <string name="exit_without_saving">Exit without saving</string>
+    <string name="stat">Statistics</string>
+    <string name="cron">Match History</string>
+
+
+
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="close">Close</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="totalCombinations">Total Combinations</string>
+    <string name="possibleCombinations">Possible Combinations</string>
+    <string name="game_attempts">Attempts</string>
+    <string name="game_score">Score</string>
+    <string name="date">dd/MM/yyyy HH:mm</string>
+    <string name="background">Background</string>
+    <string name="delete">Delete</string>
+
+</resources>
